@@ -1,0 +1,201 @@
+customer_id,customer_name,region_id,industry,segment,has_sales
+1,Chelsea Perez,1,Healthcare,Low Value,True
+2,Mary Guerrero,4,Retail,Regular,True
+3,Christina Carter,5,Retail,Regular,True
+4,Clifford Wise,1,Healthcare,Regular,True
+5,Adam Arnold,3,Tech,Regular,True
+6,Ronnie Montgomery,6,Retail,Low Value,True
+7,Michelle Green,1,Retail,Low Value,True
+8,Eugene King,1,Retail,VIP,True
+9,Thomas Alexander,1,Healthcare,Regular,True
+10,Craig Sanchez,2,Retail,Regular,True
+11,Carlos Nicholson,6,Healthcare,Low Value,True
+12,Justin Mcintosh,6,Healthcare,Low Value,True
+13,Mrs. Mariah Spears,4,Healthcare,Low Value,True
+14,Ashley Mcbride,5,Retail,Regular,True
+15,Rachael Barnett,5,Healthcare,Low Value,True
+16,James Wright,1,Tech,Regular,True
+17,Gilbert Ashley,5,Retail,Regular,True
+18,Elizabeth Cook,1,Retail,Low Value,True
+19,Melinda Black,1,Retail,VIP,True
+20,Sarah Olson,5,Retail,Regular,True
+21,Jason Washington,4,Retail,Regular,True
+22,Jeffrey Hart,6,Healthcare,Regular,True
+23,Anita Jones,2,Healthcare,Regular,True
+24,Brenda Young,2,Retail,Regular,True
+25,Mercedes Rowe,2,Healthcare,Low Value,True
+26,Rachel Ward,5,Retail,Regular,True
+27,Ryan Yates Jr.,6,Healthcare,Low Value,True
+28,Travis Morgan,5,Healthcare,Low Value,True
+29,Michael Gardner,4,Healthcare,Regular,True
+30,Terry Wade,2,Healthcare,Regular,True
+31,Leslie Krueger,5,Tech,Low Value,True
+32,Wendy Williams,2,Retail,Regular,True
+33,Dominic Miller Jr.,5,Tech,Regular,True
+34,Kristy Padilla,3,Healthcare,Regular,True
+35,Haley Leonard,6,Tech,Regular,True
+36,Megan Johnson,1,Retail,Regular,True
+37,Tiffany Winters,4,Retail,Regular,True
+38,John Lin,1,Healthcare,Low Value,True
+39,Brandon Martin,5,Tech,Regular,True
+40,Michael Phillips,2,Tech,Regular,True
+41,Michael Porter,2,Tech,Regular,True
+42,Sheena Ellis,5,Retail,Regular,True
+43,Elizabeth Mullen,4,Retail,Regular,True
+44,Autumn Mclaughlin,3,Tech,Low Value,False
+45,Ernest Meadows,3,Retail,Regular,True
+46,Jordan Malone,6,Retail,Regular,True
+47,Laura Green,4,Tech,Regular,True
+48,Eric Thompson,2,Retail,Regular,True
+49,Kyle Collins,4,Tech,Regular,True
+50,April Alexander,1,Tech,Low Value,True
+51,Kevin Knight,5,Healthcare,Regular,True
+52,Louis Vasquez,1,Tech,Regular,True
+53,Kara Rice,4,Retail,Regular,True
+54,Joshua Bauer,1,Healthcare,Regular,True
+55,Dakota Dixon,5,Tech,Regular,True
+56,Angela Ryan,3,Healthcare,Low Value,True
+57,Sharon Hickman,6,Retail,Regular,True
+58,Anthony Wood,1,Tech,Regular,True
+59,Julia Peters,3,Retail,Low Value,True
+60,Clinton Meadows,3,Healthcare,Regular,True
+61,Jeremy Garcia,2,Tech,Low Value,True
+62,Claire Wright,1,Healthcare,Regular,True
+63,Raymond Estrada,5,Healthcare,Low Value,True
+64,Joseph Dunlap,1,Tech,Low Value,True
+65,Valerie Andrade,2,Healthcare,Low Value,True
+66,Jay Nguyen,3,Retail,Regular,True
+67,Amy Garcia,3,Healthcare,Regular,True
+68,Diane Riddle,2,Retail,Low Value,True
+69,Christopher Mathis,2,Retail,VIP,True
+70,Diane Ramirez,1,Healthcare,Regular,True
+71,Blake Hardy,5,Retail,Regular,True
+72,Nicole Parker,2,Tech,Low Value,True
+73,Ryan Merritt,1,Retail,Regular,True
+74,Erik Phillips,6,Retail,Low Value,True
+75,Joseph Rodriguez,3,Retail,Low Value,True
+76,Kevin Schwartz,6,Tech,Regular,True
+77,Christopher King,4,Tech,Regular,True
+78,Cindy Whitehead,2,Tech,Regular,True
+79,Rebekah Romero,6,Healthcare,Low Value,True
+80,Laura Brown,5,Tech,Regular,True
+81,Gary Santiago,1,Retail,Regular,True
+82,Mrs. Jennifer King,1,Tech,Low Value,True
+83,Sarah Martin,5,Tech,Low Value,True
+84,Holly Cobb,1,Retail,VIP,True
+85,John Jennings,6,Healthcare,Regular,True
+86,Stephanie Terrell,3,Tech,Regular,True
+87,John Daniels,2,Healthcare,Low Value,True
+88,Pam Walker,6,Healthcare,Low Value,True
+89,Jesse Miller,5,Healthcare,Low Value,True
+90,William Edwards,1,Retail,Regular,True
+91,Keith Daniels,5,Healthcare,Regular,True
+92,Earl Wright,2,Healthcare,Regular,True
+93,Sarah Smith,2,Retail,Regular,True
+94,Jennifer Garza,3,Healthcare,Regular,True
+95,Jason Holloway,6,Healthcare,Regular,True
+96,Regina Hill,6,Retail,Regular,True
+97,Jessica King,1,Retail,Regular,True
+98,Joshua Welch,3,Tech,Regular,True
+99,Katie Brock,3,Tech,Regular,True
+100,Aaron Sawyer,5,Tech,VIP,True
+101,Laurie Landry,2,Healthcare,Regular,True
+102,Joseph Sanchez,2,Healthcare,Regular,True
+103,Sierra Cooper,1,Healthcare,Regular,True
+104,Antonio Jordan,5,Retail,VIP,True
+105,Kenneth Juarez,2,Healthcare,Low Value,True
+106,Katherine Thomas,5,Tech,VIP,True
+107,Jennifer Joyce,6,Retail,Regular,True
+108,Douglas Taylor,3,Retail,Low Value,True
+109,Sharon Dillon,1,Retail,Regular,True
+110,Kristina Carlson,5,Tech,Low Value,True
+111,Angela Morris,1,Tech,Low Value,True
+112,Melanie Greer,6,Tech,Low Value,True
+113,Eric Garcia,5,Retail,Regular,True
+114,Anne Gray,4,Retail,Regular,True
+115,Michelle Horton,6,Healthcare,Regular,True
+116,Natalie Castillo,6,Healthcare,VIP,True
+117,Debra Anderson,4,Tech,Regular,True
+118,Mark Hamilton,3,Retail,Regular,True
+119,Stephanie Martinez,3,Healthcare,Regular,True
+120,Lisa Roberts,3,Tech,Low Value,True
+121,Elizabeth Weber,2,Tech,Regular,True
+122,Gabrielle Mccall,3,Healthcare,Regular,True
+123,Jaime Johnson,4,Tech,Low Value,True
+124,Haley Craig,6,Retail,Regular,True
+125,Allison Ashley,2,Tech,Low Value,True
+126,Matthew Holmes,4,Retail,Low Value,True
+127,Michelle Lawrence,3,Retail,Low Value,True
+128,Nicole Gray,4,Healthcare,Low Value,True
+129,Sean Olson,6,Healthcare,Regular,True
+130,Patricia Hopkins,6,Healthcare,Regular,True
+131,Mr. John Thomas,1,Tech,VIP,True
+132,Trevor Dominguez,4,Healthcare,Low Value,True
+133,Ryan Jones,2,Healthcare,Regular,True
+134,Cynthia Schultz,4,Tech,Regular,True
+135,Victor Brock,5,Healthcare,Regular,True
+136,Brittany Ashley,4,Tech,Regular,True
+137,Antonio Rivera,5,Tech,Low Value,True
+138,Shirley Snyder,6,Retail,Regular,True
+139,Colleen Adams,3,Retail,Regular,True
+140,Mark Walton,5,Healthcare,Regular,True
+141,Brenda Hansen,2,Tech,Regular,True
+142,James Bush,2,Retail,Low Value,True
+143,Sandra Solomon,6,Retail,Regular,True
+144,Beverly Campbell,6,Retail,Low Value,True
+145,Hannah Bates,4,Retail,VIP,True
+146,Natalie Allen,5,Healthcare,Low Value,True
+147,Kristie Baker,5,Retail,VIP,True
+148,Jean Brown,4,Healthcare,Regular,True
+149,Keith Carr,2,Tech,Regular,True
+150,Aaron Edwards Jr.,6,Healthcare,Regular,True
+151,Holly Pitts,2,Retail,Regular,True
+152,Jerry Collins,4,Tech,Regular,True
+153,Lisa Smith,5,Tech,Regular,True
+154,Jessica Edwards,4,Healthcare,Regular,True
+155,Renee Lopez,3,Tech,Low Value,True
+156,Kenneth Jones,6,Healthcare,Low Value,True
+157,Jeffrey Ward,3,Tech,Regular,True
+158,Corey Kirk,1,Healthcare,Regular,True
+159,Joe King,5,Retail,Low Value,True
+160,Benjamin Hawkins DDS,6,Healthcare,Regular,True
+161,Christina Hernandez,3,Healthcare,Regular,True
+162,Daniel Dalton,4,Retail,Regular,True
+163,Katrina Brock,5,Healthcare,Regular,True
+164,Anna Rivera,6,Healthcare,Low Value,True
+165,Roger Martinez,4,Tech,Low Value,True
+166,Sara Rasmussen,4,Healthcare,Regular,True
+167,Brandon Peck,4,Tech,Regular,True
+168,Amy Harvey,2,Retail,VIP,True
+169,Tiffany Jefferson,5,Tech,Regular,True
+170,Christian Ramos,6,Tech,Regular,True
+171,John Booth,2,Retail,Regular,True
+172,David Stone,2,Tech,Regular,True
+173,Linda Burch,3,Retail,Low Value,True
+174,Ann Morgan,3,Healthcare,Regular,True
+175,Scott Brown,5,Healthcare,Low Value,True
+176,Brandy Hammond,4,Tech,Low Value,True
+177,Justin Villegas,1,Healthcare,Regular,True
+178,Paul Boyd,5,Retail,Regular,True
+179,Natalie Flores,3,Healthcare,Regular,True
+180,William Ramos,2,Retail,Regular,True
+181,Jill Lopez,3,Healthcare,Regular,True
+182,William Edwards,1,Tech,Low Value,True
+183,Shane Moore,4,Healthcare,Regular,True
+184,Patrick Bird,6,Healthcare,Regular,True
+185,Donald Werner,6,Healthcare,Low Value,True
+186,Kimberly Owens,6,Retail,Low Value,True
+187,Nancy Hernandez,3,Retail,Regular,True
+188,Deanna Petersen,3,Tech,Low Value,True
+189,William White,4,Retail,Regular,True
+190,Jason Cook,2,Healthcare,Regular,True
+191,Miranda Romero,2,Healthcare,Low Value,True
+192,Brian Jordan,5,Retail,Regular,True
+193,Chelsea Freeman,6,Healthcare,Regular,True
+194,Ms. Danielle Ramirez,3,Tech,Low Value,True
+195,Dustin Lewis,3,Tech,Regular,True
+196,Ronald Jones,4,Retail,VIP,True
+197,Mrs. Elizabeth Martinez,6,Retail,Low Value,True
+198,Sarah Edwards,2,Tech,Regular,True
+199,Amy Wiggins,6,Tech,Regular,True
+200,Brooke Ibarra,2,Retail,Regular,True

@@ -1,0 +1,11 @@
+product_id,product_name,category,price,cost
+1,Laptop,Electronics,159,90.99
+2,Smartphone,Electronics,680,533.18
+3,Tablet,Electronics,187,134.56
+4,Monitor,Electronics,935,486.91
+5,Office Chair,Furniture,878,579.31
+6,Desk,Furniture,228,122.78
+7,Bookshelf,Furniture,586,459.46
+8,Notebook,Office Supplies,269,155.89
+9,Pen Pack,Office Supplies,993,677.2
+10,Stapler,Office Supplies,316,246.06

@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS regions, sales, employees, products, customers CASCADE;
