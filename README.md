@@ -7,7 +7,7 @@ An end-to-end data pipeline and SAP-focused BI solution that simulates a real-wo
 ## 🖼️ Data Architecture (The Snowflake Schema)
 To ensure high data integrity and minimal redundancy, the backend was architected using a **Snowflake Schema**. This design supports complex enterprise relationships and high-performance analytical modeling.
 
-![Snowflake Schema Diagram](Snowflake.png)
+![Snowflake Schema Diagram](sql/Snowflake.png)
 
 ---
 
